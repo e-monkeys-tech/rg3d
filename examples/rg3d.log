@@ -1,0 +1,162 @@
+[INFO]: Shader BlurShader_VertexShader compiled!
+
+[INFO]: Shader BlurShader_FragmentShader compiled!
+
+[INFO]: Shader BlurShader linked!
+
+[INFO]: Shader SsaoShader_VertexShader compiled!
+
+[INFO]: Shader SsaoShader_FragmentShader compiled!
+
+[INFO]: Shader SsaoShader linked!
+
+[INFO]: Shader SpotLightShader_VertexShader compiled!
+
+[INFO]: Shader SpotLightShader_FragmentShader compiled!
+
+[INFO]: Shader SpotLightShader linked!
+
+[INFO]: Shader PointLightShader_VertexShader compiled!
+
+[INFO]: Shader PointLightShader_FragmentShader compiled!
+
+[INFO]: Shader PointLightShader linked!
+
+[INFO]: Shader DirectionalLightShader_VertexShader compiled!
+
+[INFO]: Shader DirectionalLightShader_FragmentShader compiled!
+
+[INFO]: Shader DirectionalLightShader linked!
+
+[INFO]: Shader AmbientLightShader_VertexShader compiled!
+
+[INFO]: Shader AmbientLightShader_FragmentShader compiled!
+
+[INFO]: Shader AmbientLightShader linked!
+
+[INFO]: Shader FlatShader_VertexShader compiled!
+
+[INFO]: Shader FlatShader_FragmentShader compiled!
+
+[INFO]: Shader FlatShader linked!
+
+[INFO]: Shader SkyboxShader_VertexShader compiled!
+
+[INFO]: Shader SkyboxShader_FragmentShader compiled!
+
+[INFO]: Shader SkyboxShader linked!
+
+[INFO]: Shader SpotVolumetricLight_VertexShader compiled!
+
+[INFO]: Shader SpotVolumetricLight_FragmentShader compiled!
+
+[INFO]: Shader SpotVolumetricLight linked!
+
+[INFO]: Shader PointVolumetricLight_VertexShader compiled!
+
+[INFO]: Shader PointVolumetricLight_FragmentShader compiled!
+
+[INFO]: Shader PointVolumetricLight linked!
+
+[INFO]: Shader FlatShader_VertexShader compiled!
+
+[INFO]: Shader FlatShader_FragmentShader compiled!
+
+[INFO]: Shader FlatShader linked!
+
+[INFO]: Shader FlatShader_VertexShader compiled!
+
+[INFO]: Shader FlatShader_FragmentShader compiled!
+
+[INFO]: Shader FlatShader linked!
+
+[INFO]: Shader SpriteShader_VertexShader compiled!
+
+[INFO]: Shader SpriteShader_FragmentShader compiled!
+
+[INFO]: Shader SpriteShader linked!
+
+[INFO]: Shader UIShader_VertexShader compiled!
+
+[INFO]: Shader UIShader_FragmentShader compiled!
+
+[INFO]: Shader UIShader linked!
+
+[INFO]: Shader ParticleSystemShader_VertexShader compiled!
+
+[INFO]: Shader ParticleSystemShader_FragmentShader compiled!
+
+[INFO]: Shader ParticleSystemShader linked!
+
+[INFO]: Shader DebugShader_VertexShader compiled!
+
+[INFO]: Shader DebugShader_FragmentShader compiled!
+
+[INFO]: Shader DebugShader linked!
+
+[INFO]: Shader FXAAShader_VertexShader compiled!
+
+[INFO]: Shader FXAAShader_FragmentShader compiled!
+
+[INFO]: Shader FXAAShader linked!
+
+[INFO]: Shader SpriteShader2D_VertexShader compiled!
+
+[INFO]: Shader SpriteShader2D_FragmentShader compiled!
+
+[INFO]: Shader SpriteShader2D linked!
+
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyFront2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyUp2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyLeft2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyDown2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyBack2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyRight2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[INFO]: Shader BlurShader_VertexShader compiled!
+
+[INFO]: Shader BlurShader_FragmentShader compiled!
+
+[INFO]: Shader BlurShader linked!
+
+[INFO]: Shader SsaoShader_VertexShader compiled!
+
+[INFO]: Shader SsaoShader_FragmentShader compiled!
+
+[INFO]: Shader SsaoShader linked!
+
+[INFO]: Resource "examples/data/skyboxes/DarkStormy/DarkStormyFront2048.png" destroyed because it not used anymore!
+[INFO]: Resource "examples/data/skyboxes/DarkStormy/DarkStormyBack2048.png" destroyed because it not used anymore!
+[INFO]: Resource "examples/data/skyboxes/DarkStormy/DarkStormyLeft2048.png" destroyed because it not used anymore!
+[INFO]: Resource "examples/data/skyboxes/DarkStormy/DarkStormyRight2048.png" destroyed because it not used anymore!
+[INFO]: Resource "examples/data/skyboxes/DarkStormy/DarkStormyUp2048.png" destroyed because it not used anymore!
+[INFO]: Resource "examples/data/skyboxes/DarkStormy/DarkStormyDown2048.png" destroyed because it not used anymore!
+[INFO]: Shader BlurShader_VertexShader compiled!
+
+[INFO]: Shader BlurShader_FragmentShader compiled!
+
+[INFO]: Shader BlurShader linked!
+
+[INFO]: Shader SsaoShader_VertexShader compiled!
+
+[INFO]: Shader SsaoShader_FragmentShader compiled!
+
+[INFO]: Shader SsaoShader linked!
+
+[INFO]: Shader BlurShader_VertexShader compiled!
+
+[INFO]: Shader BlurShader_FragmentShader compiled!
+
+[INFO]: Shader BlurShader linked!
+
+[INFO]: Shader SsaoShader_VertexShader compiled!
+
+[INFO]: Shader SsaoShader_FragmentShader compiled!
+
+[INFO]: Shader SsaoShader linked!
+
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyBack2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyFront2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyRight2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyLeft2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyDown2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
+[ERROR]: Unable to load texture "examples/data/skyboxes/DarkStormy/DarkStormyUp2048.png"! Reason FileLoadError(Io(Os { code: 3, kind: NotFound, message: "Le chemin d’accès spécifié est introuvable." }))
